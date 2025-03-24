@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\bin\Debug\net9.0\propriedades.exe
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\bin\Debug\net9.0\propriedades.deps.json
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\bin\Debug\net9.0\propriedades.runtimeconfig.json
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\bin\Debug\net9.0\propriedades.dll
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\bin\Debug\net9.0\propriedades.pdb
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.AssemblyInfo.cs
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.dll
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\refint\propriedades.dll
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.pdb
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.genruntimeconfig.cache
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\ref\propriedades.dll
