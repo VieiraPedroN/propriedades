@@ -19,4 +19,3 @@ Ingles.Alunos.Add(p5);
 Ingles.Alunos.Add(p6);
 
 Ingles.ListarAlunos();
-Console.WriteLine(Ingles.QtdAluno());

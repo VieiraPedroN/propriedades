@@ -12,3 +12,4 @@ C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propr
 C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.pdb
 C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.genruntimeconfig.cache
 C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\ref\propriedades.dll
+C:\Users\pedro\OneDrive - SESISENAISP - Escolas\Área de Trabalho\C# Aulas\propriedades\obj\Debug\net9.0\propriedades.sourcelink.json

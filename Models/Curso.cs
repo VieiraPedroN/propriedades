@@ -24,10 +24,18 @@
 
         public void ListarAlunos()
         {
-            foreach (Pessoa aluno in Alunos)
+
+            for (int count = 0; count < Alunos.Count; count++)
+            {
+                //string texto = "N°" + count + " - " + Alunos[count].NomeCompleto;
+                string texto = $"N°{count} - {Alunos[count].NomeCompleto}";
+                Console.WriteLine(texto);
+            }
+
+            /*foreach (Pessoa aluno in Alunos)
             {
                 Console.WriteLine(aluno.NomeCompleto);
-            }
+            }*/
         }
     }
 }
